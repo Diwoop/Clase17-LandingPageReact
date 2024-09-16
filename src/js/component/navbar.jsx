@@ -1,7 +1,7 @@
 import React from "react";
 export function NavBar() {
   return (
-      <nav className="navbar navbar-expand-lg bg-dark border-bottom border-body">
+      <nav className="navbar navbar-expand-lg bg-warning bg-opacity-75 border-bottom border-body">
       <div className="container-fluid">
           <a className="navbar-brand text-light" href="#">Start Bootstrap</a>
           <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
